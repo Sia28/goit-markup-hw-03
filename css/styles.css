@@ -281,7 +281,6 @@ a {
     text-transform: capitalize;
     color: #2E2F42;
     margin-bottom: 72px;
-    margin-top: 90px;
 }
 
 .style-portfolio{
@@ -332,7 +331,7 @@ a {
     background-color: #2E2F42;
     padding: 100px 0;
 }
-.logo{
+.logo-footer{
     display: inline-block;
     margin-bottom: 16px;
 }
